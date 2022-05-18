@@ -10,7 +10,7 @@
 }
 
 const arg = () => {
-	alert(`Размер изображения: ${img.offsetWidth}x${img.offsetHeight}`);
+	alert(`Размер изображения : ${img.offsetWidth}x${img.offsetHeight}`);
 }
 
 ready(arg)
